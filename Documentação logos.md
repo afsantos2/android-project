@@ -12,7 +12,7 @@
 
 <details>
 
-1- Usar a mesma imagem que foi redimensionada nos passos anteriores, deixar a resolução igual a resolução atual do **logo-topo**.<br> 
+1- Usar a mesma imagem que foi redimensionada e adicionada no topo, deixar a resolução igual a resolução atual do **logo-topo**.<br> 
 2- Salvar o arquivo com o nome exato: ```logo_email.jpg``` .
 </details>
 
