@@ -7,14 +7,14 @@
 4- Subir a imagem pelo ```Admin``` e verificar a qualidade.
 </details>
 
-# Logo Email
+## Logo Email
 
 <details>
 1- Usar a mesma imagem que foi redimensionada nos passos anteriores, deixar a resolução igual a resolução atual do logo-topo. 
 2- Salvar o arquivo com o nome exato:```logo_email.jpg```.
 </details>
 
-# Logo PDF
+### Logo PDF
 
 <details>
 1- Usar a imagem do *logo-topo*, reduzir a altura para 55px
