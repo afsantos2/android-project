@@ -1,4 +1,4 @@
-# Logo Topo 
+### Logo Topo 
 
 <details>
 1- Pegar a imagem principal no quadro de lojas ou com quem for possível, abrir no photoshop e retirar as bordas e os espaços desnecessários.
@@ -7,7 +7,7 @@
 4- Subir a imagem pelo ```Admin``` e verificar a qualidade.
 </details>
 
-## Logo Email
+### Logo Email
 
 <details>
 1- Usar a mesma imagem que foi redimensionada nos passos anteriores, deixar a resolução igual a resolução atual do logo-topo. 
@@ -25,7 +25,7 @@
 </details>
 
 
-```teste```
+
 
 
 
