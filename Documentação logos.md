@@ -38,5 +38,9 @@
 
 <details>
 
-1- Pode ser usada a mesma imagem do topo, basta reduzir a imagem e deixar a resolução igual a resolução atual do **logo-topo**.
+1- Pode ser usada a mesma imagem do topo, basta reduzir a imagem e deixar a resolução igual a resolução atual do ***logo-topo***.
 </details>
+
+### Observação
+
+<p>Testando '''parágrafo''' in ``markdown``</p>
